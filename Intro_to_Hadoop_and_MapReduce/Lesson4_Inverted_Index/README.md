@@ -1,9 +1,7 @@
-The mapper and reduce scripts for Udacity Intro to MapReduce Lesson 4
-Task: Inverted Index
+#### Solution to the Inverted Index task from the Udacity Intro to MapReduce Lesson 4
 
-On the forum data count the number of occurrences
-of the word "fantastic" and print out the nodes for the
-word "fantastically".
+Task: Count the number of occurrences of the word "fantastic" and print out the nodes for the
+word "fantastically" in the provided forum data.
 
 The actual lesson can be found here:
 
