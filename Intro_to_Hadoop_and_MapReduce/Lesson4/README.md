@@ -31,7 +31,7 @@ The actual lesson can be found here:
    hadoop fs -cat mean_of_sales/part-00000
 
 
-##### 2. Finding Mean using combiner
+##### 3. Finding Mean using combiner
 1. Follow step 1 of 2. above
 
 2. Add the bash function hsc as described in the lecture notes
